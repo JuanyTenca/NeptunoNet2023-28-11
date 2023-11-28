@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NeptunoNet2023.DatosSql\NeptunoNet2023.DatosSql.csproj" />
+    <ProjectReference Include="..\NeptunoNet2023.Entidades\NeptunoNet2023.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
